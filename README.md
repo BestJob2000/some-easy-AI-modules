@@ -9,10 +9,10 @@ courseworks for class introduction to AI
 ### 利用遗传算法 解决二项式计算  
 主要目的是了解掌握这些算法的概念与原理，并没有考虑算法效率 
 ## mainly recorded some basic algorithms learned in artificial intelligence courses
-### mainly includes
-### Use BFS DFS to solve the eight-digit problem
-### Use heuristic search A* to solve the eight-digit problem
-### Use game tree to solve tic-Tac-toe with α-β pruning
-Ant colony algorithm is used to solve the traveling salesman problem
+### Includes
+### Use BFS DFS to solve the 8-puzzle problem
+### Use heuristic search A* to solve the 8-puzzle problem
+### Use game tree with α-β pruning to solve tic-Tac-toe 
+### Ant colony algorithm is used to solve the traveling salesman problem(TSP)
 ### Use genetic algorithm to solve binomial calculation
-The main purpose is to understand the concepts and principles of these algorithms, without considering the efficiency of the algorithm
+The main purpose is to understand the concepts and principles of these algorithms, dosen't consider the efficiency of the algorithm
