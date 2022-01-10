@@ -152,9 +152,6 @@ int main()
    }
 
 
-
-
-
    dfs(first_dfs);                  //dfs
    printf("\ndfs steps %d",dfs_steps);
    for(int i=0;i<=dfs_steps;i++){         //show steps

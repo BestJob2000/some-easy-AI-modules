@@ -131,7 +131,7 @@ while count_iter < iter_max:
 
 print('最短距离：',dis_new)
 print('最短路径：',path_new)
-image = Image.open("C:\\Users\\MSI-Job\\Desktop\\map.png")
+image = Image.open("C:\\Users\\MSI-Job\\Desktop\\map.jpg")
 img = image.transpose(Image.FLIP_TOP_BOTTOM)
 plt.imshow(img)
 axis_x1=[]
